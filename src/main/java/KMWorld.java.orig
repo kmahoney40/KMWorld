@@ -1,0 +1,10 @@
+public class KMWorld{
+	public static void main (String args[]){
+		System.out.println("Hello KM");
+<<<<<<< HEAD
+		System.out.println("main branch, for merge");
+=======
+		System.out.println("km_dev branch, for merge");
+>>>>>>> km_dev
+	}
+}
